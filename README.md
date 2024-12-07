@@ -1,2 +1,2 @@
 # main_website 
-Our main page try it now! 
+Our main page, try it now! 
